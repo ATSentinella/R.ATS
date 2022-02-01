@@ -10,7 +10,7 @@ C.ATS(love = TRUE)
 \item{love}{Do you love cats? Defaults to TRUE.}
 }
 \description{
-This function tests your love of catsI
+This function tests your love of cats
 }
 \details{
 When building your package, remember to make the documentation

@@ -1,6 +1,6 @@
 #' A Cat Function -  To test out personal packages and functions
 #'
-#' This function tests your love of catsI
+#' This function tests your love of cats
 #'
 #' When building your package, remember to make the documentation
 #' devtools::document()
