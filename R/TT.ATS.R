@@ -13,8 +13,8 @@ TT.ATS <- function(){
   usethis::use_directory("Data")
 
   #Add some scripts you think you need
-  usethis::use_template("packages.R", package = "tflow")
-  usethis::use_template("_targets.R", package = "tflow")
-
+  usethis::use_template("get_data.R",
+                        save_as = ".R/get_data.R",
+                        package = "R.ATS")
 
 }
